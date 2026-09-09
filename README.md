@@ -576,6 +576,28 @@ Random Forest achieved:
 
 Although Linear Regression achieved the lowest RMSE, Random Forest provided the strongest overall balance between prediction accuracy and explanatory power.
 
+---
+
+## 📸 Project Visualizations
+
+### Model RMSE Comparison
+
+![Model RMSE Comparison](screenshots/model_rmse_comparison.png)
+
+### Model MAE Comparison
+
+![Model MAE Comparison](screenshots/model_mae_comparison.png)
+
+### Model R² Comparison
+
+![Model R² Comparison](screenshots/model_r2_comparison.png)
+
+### Actual vs Predicted House Prices
+
+![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+
+---
+
 # 📌 Key Learnings
 
 This project demonstrates practical experience with:
