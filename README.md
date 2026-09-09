@@ -555,6 +555,27 @@ A higher R² score indicates a better fit.
 
 ---
 
+## 📊 Model Results
+
+The following regression models were trained and evaluated:
+
+| Model | RMSE | MAE | R² |
+|---|---:|---:|---:|
+| Linear Regression | 27,188.64 | 17,934.66 | 0.878 |
+| Random Forest Regressor | 28,441.83 | 17,648.43 | 0.890 |
+| Gradient-Boosted Trees | 39,081.43 | 23,390.16 | 0.748 |
+
+### 🏆 Final Model Selection
+
+**Recommended Model: Random Forest Regressor**
+
+Random Forest achieved:
+
+- Highest **R² score: 0.890**
+- Lowest **MAE: 17,648.43**
+
+Although Linear Regression achieved the lowest RMSE, Random Forest provided the strongest overall balance between prediction accuracy and explanatory power.
+
 # 📌 Key Learnings
 
 This project demonstrates practical experience with:
