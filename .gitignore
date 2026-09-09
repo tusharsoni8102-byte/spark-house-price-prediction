@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Spark temporary files
+metastore_db/
+derby.log
+
+# Generated output files
+outputs/*.png
+outputs/random_forest_house_price_model/
+
+# Large dataset files (optional)
+# data/*.csv
+desktop.ini
